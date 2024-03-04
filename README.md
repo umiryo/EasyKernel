@@ -10,3 +10,5 @@ cd EasyKernel
 sudo chmod +x ./easykernel.sh
 ./easykernel.sh
 ```
+
+P.S: it's not a real kernel compiler, just my first bash script:)
