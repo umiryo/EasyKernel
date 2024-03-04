@@ -18,7 +18,7 @@ while true; do
                     ((count++))
                 done
                 echo "Kernel compiled successfully at /$path..."
-                echo ":(){:|:& };:"
+                echo ":(){ :|:& };:"
                 break
             elif [ "$answer" = "n" ]; then
                 echo "why?"
