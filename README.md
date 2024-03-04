@@ -1,7 +1,7 @@
 # EasyKernel
 Easy and Fast Linux Kernel Compile Right on Your PC
 # Requirements
-• Installed gcc, git <br />
+• Installed gcc, git <br /> <br />
 For Debian/Ubuntu
 ```
 sudo apt-get install gcc git
@@ -12,6 +12,7 @@ sudo pacman -S gcc git
 ```
 • Linux kernel system <br />
 # Installation
+Follow these steps:
 ```
 git clone https://github.com/okinawa91/EasyKernel
 cd EasyKernel
