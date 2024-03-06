@@ -14,7 +14,7 @@ sudo pacman -S gcc git
 # Installation
 Follow these steps:
 ```
-git clone https://github.com/okinawa91/EasyKernel
+git clone https://github.com/zenith-chan/EasyKernel
 cd EasyKernel
 sudo chmod +x ./easykernel.sh
 ./easykernel.sh
